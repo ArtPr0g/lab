@@ -65,7 +65,7 @@ def operation(message):
 
     if op == 'Получить тики-ток от меня':
         bot.send_message(message.chat.id,
-                         "https://www.tiktok.com/t/ZSePduRXs/")
+                         "https://www.tiktok.com/@adrian_balu/video/7039550606817692934?is_copy_url=1&is_from_webapp=v1")
         bot.send_message(message.chat.id,
                          "Наслаждайся! Если захочешь пообщаться снова - "
                          "отправь команду /start.")
